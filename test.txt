@@ -1,9 +1,5 @@
-test line 1
-test line 2
-test line 3
-this is a line commit in main
-this is another line
-test line additional after the second repo was created
-Test line stuff bullshit
-
-this is a line added to a file that is no longer matching the current main version
+Tomatoes
+Potatoes
+Minced meat
+Salt
+Pepper
