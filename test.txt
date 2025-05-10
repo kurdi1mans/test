@@ -1,5 +1,1 @@
-Tomatoes
-Potatoes
-Minced meat
-Salt
-Pepper
+This file is reset
